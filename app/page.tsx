@@ -314,7 +314,7 @@ export default function Page() {
 
       <footer>
         <div className="footer-brand">Alicia Espinal</div>
-        <p>© 2024 Alicia Espinal. All rights reserved.</p>
+        <p>© 2026 Alicia Espinal. All rights reserved.</p>
         <div className="footer-links">
           <a href="#">Privacy Policy</a>
           <a href="#">Terms of Service</a>
